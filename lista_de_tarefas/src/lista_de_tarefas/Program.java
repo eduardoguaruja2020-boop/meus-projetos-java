@@ -59,5 +59,7 @@ public class Program {
 
 		} while (opcao != 4);
 
+		sc.close();
+		
 	}
 }
